@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1725203705726" clover="3.2.0">
+  <project timestamp="1725203705726" name="All files">
+    <metrics statements="70" coveredstatements="68" conditionals="28" coveredconditionals="22" methods="27" coveredmethods="26" elements="125" coveredelements="116" complexity="0" loc="70" ncloc="70" packages="2" files="7" classes="7"/>
+    <package name="components">
+      <metrics statements="69" coveredstatements="67" conditionals="28" coveredconditionals="22" methods="27" coveredmethods="26"/>
+      <file name="Body.js" path="C:\Users\NEERAJ KUMAR\OneDrive\Desktop\React\src\components\Body.js">
+        <metrics statements="26" coveredstatements="25" conditionals="6" coveredconditionals="4" methods="9" coveredmethods="9"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="23" count="7" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="27" count="7" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="43" count="7" type="stmt"/>
+        <line num="45" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="52" count="5" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="8" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="82" count="8" type="stmt"/>
+        <line num="84" count="1" type="stmt"/>
+        <line num="99" count="29" type="stmt"/>
+      </file>
+      <file name="Cart.js" path="C:\Users\NEERAJ KUMAR\OneDrive\Desktop\React\src\components\Cart.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+      <file name="Header.js" path="C:\Users\NEERAJ KUMAR\OneDrive\Desktop\React\src\components\Header.js">
+        <metrics statements="7" coveredstatements="6" conditionals="4" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="48" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="ItemList.js" path="C:\Users\NEERAJ KUMAR\OneDrive\Desktop\React\src\components\ItemList.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="15" count="24" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+      </file>
+      <file name="RestaurantMenu.js" path="C:\Users\NEERAJ KUMAR\OneDrive\Desktop\React\src\components\RestaurantMenu.js">
+        <metrics statements="15" coveredstatements="15" conditionals="8" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="14" type="stmt"/>
+        <line num="10" count="13" type="stmt"/>
+        <line num="12" count="13" type="stmt"/>
+        <line num="14" count="13" type="stmt"/>
+        <line num="15" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="27" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="8" type="stmt"/>
+        <line num="37" count="112" type="stmt"/>
+        <line num="43" count="8" type="stmt"/>
+        <line num="45" count="8" type="stmt"/>
+        <line num="53" count="56" type="stmt"/>
+        <line num="57" count="3" type="stmt"/>
+      </file>
+      <file name="ResturantCard.js" path="C:\Users\NEERAJ KUMAR\OneDrive\Desktop\React\src\components\ResturantCard.js">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="30" type="stmt"/>
+        <line num="19" count="30" type="stmt"/>
+        <line num="21" count="30" type="stmt"/>
+        <line num="23" count="30" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="60" count="7" type="stmt"/>
+        <line num="61" count="29" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="appStore.js" path="C:\Users\NEERAJ KUMAR\OneDrive\Desktop\React\src\utils\appStore.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
